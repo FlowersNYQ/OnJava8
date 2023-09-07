@@ -1,0 +1,115 @@
+{
+  "main": {
+    "id": "05be91dc0d4a2832",
+    "type": "split",
+    "children": [
+      {
+        "id": "22c6d3783fd2285a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d56793a8ea61fb2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "63886fe5fbf0fde7",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c4ec984f0499713",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "082c8ea6daa67c59",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "36c0ce1e5f4e0f12",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "989f85010e3cd589",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "7ef66fdc9ee00364",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f1d9821b0376cc9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0345218ffb099880",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false
+    }
+  },
+  "active": "7d56793a8ea61fb2",
+  "lastOpenFiles": [
+    "on-java-8-EN-9780981872520.pdf",
+    "README.md",
+    "cover_small.jpg",
+    "CONTRIBUTING.md",
+    "2023-09-08.md",
+    "docs/book/01-What-is-an-Object.md",
+    "SUMMARY.md",
+    "docs/book/Appendix-Passing-and-Returning-Objects.md",
+    "docs/book/25-Patterns.md",
+    "docs/book/03-Objects-Everywhere.md",
+    "未命名.canvas",
+    "docs/book/00-Introduction.md"
+  ]
+}
