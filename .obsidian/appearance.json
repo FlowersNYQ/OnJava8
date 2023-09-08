@@ -5,5 +5,7 @@
   "textFontFamily": "Microsoft YaHei",
   "monospaceFontFamily": "JetBrains Mono",
   "nativeMenus": false,
-  "translucency": false
+  "translucency": false,
+  "theme": "obsidian",
+  "baseFontSize": 16
 }

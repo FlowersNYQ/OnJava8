@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "22c6d3783fd2285a",
+        "id": "f3fc77f90bddad15",
         "type": "tabs",
         "children": [
           {
-            "id": "7d56793a8ea61fb2",
+            "id": "e3868fae77f1d9a2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "docs/book/01-What-is-an-Object.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -82,7 +87,20 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "docs/book/01-What-is-an-Object.md"
+              }
+            }
+          },
+          {
+            "id": "7961bc9bf690e616",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
             }
           }
         ]
@@ -93,23 +111,30 @@
     "collapsed": true
   },
   "left-ribbon": {
-    "hiddenItems": {
-      "switcher:打开快速切换": false
-    }
+    "hiddenItems": {}
   },
-  "active": "7d56793a8ea61fb2",
+  "active": "e3868fae77f1d9a2",
   "lastOpenFiles": [
-    "on-java-8-EN-9780981872520.pdf",
+    "docs/_style/prism-master/CHANGELOG.md",
+    "docs/book/01-What-is-an-Object.md",
+    "docs/book/02-Installing-Java-and-the-Book-Examples.md",
+    "docs/images/1545764724202.png",
+    "docs/images/1545763399825.png",
+    "docs/book/00-Preface.md",
+    "docs/book/00-On-Java-8.md",
+    "docs/_coverpage.md",
+    "docs/book/00-Introduction.md",
+    "未命名.md",
+    "SUMMARY.md",
+    "docs/sidebar.md",
     "README.md",
+    "on-java-8-EN-9780981872520.pdf",
     "cover_small.jpg",
     "CONTRIBUTING.md",
     "2023-09-08.md",
-    "docs/book/01-What-is-an-Object.md",
-    "SUMMARY.md",
     "docs/book/Appendix-Passing-and-Returning-Objects.md",
     "docs/book/25-Patterns.md",
     "docs/book/03-Objects-Everywhere.md",
-    "未命名.canvas",
-    "docs/book/00-Introduction.md"
+    "未命名.canvas"
   ]
 }

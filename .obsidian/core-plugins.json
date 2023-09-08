@@ -1,11 +1,9 @@
 [
   "file-explorer",
   "global-search",
-  "switcher",
-  "properties",
+  "tag-pane",
   "page-preview",
   "editor-status",
   "bookmarks",
-  "outline",
-  "word-count"
+  "outline"
 ]

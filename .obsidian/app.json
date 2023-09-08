@@ -1,3 +1,14 @@
 {
-  "defaultViewMode": "preview"
+  "defaultViewMode": "preview",
+  "showLineNumber": false,
+  "promptDelete": false,
+  "strictLineBreaks": false,
+  "spellcheck": true,
+  "autoPairBrackets": true,
+  "autoPairMarkdown": true,
+  "smartIndentList": true,
+  "useTab": true,
+  "autoConvertHtml": true,
+  "propertiesInDocument": "visible",
+  "readableLineLength": true
 }
