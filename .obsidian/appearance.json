@@ -7,8 +7,9 @@
   "nativeMenus": false,
   "translucency": false,
   "theme": "obsidian",
-  "baseFontSize": 20,
+  "baseFontSize": 16,
   "enabledCssSnippets": [
-    "font"
+    "font",
+    "Global Fonts"
   ]
 }

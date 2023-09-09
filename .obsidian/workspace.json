@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/book/01-What-is-an-Object.md",
+                "file": "docs/book/02-Installing-Java-and-the-Book-Examples.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#TODO_2023年9月9日20点14分",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,11 +66,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7ef66fdc9ee00364",
@@ -86,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/book/01-What-is-an-Object.md"
+                "file": "docs/book/02-Installing-Java-and-the-Book-Examples.md"
               }
             }
           },
@@ -97,7 +99,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           }
@@ -113,10 +115,21 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "082c8ea6daa67c59",
+  "active": "462aa4dd0c6b6900",
   "lastOpenFiles": [
-    "测试git.md",
     "docs/book/01-What-is-an-Object.md",
+    "docs/book/23-Annotations.md",
+    "docs/book/Appendix-Low-Level-Concurrency.md",
+    "docs/book/00-Preface.md",
+    "docs/book/Appendix-Object-Serialization.md",
+    "docs/book/Appendix-Passing-and-Returning-Objects.md",
+    "docs/book/Appendix-Programming-Guidelines.md",
+    "docs/book/Appendix-Standard-IO.md",
+    "docs/book/Appendix-Supplements.md",
+    "docs/book/Appendix-The-Positive-Legacy-of-C-plus-plus-and-Java.md",
+    "docs/book/Appendix-Understanding-equals-and-hashCode.md",
+    "docs/book/02-Installing-Java-and-the-Book-Examples.md",
+    "测试git.md",
     "CONTRIBUTING.md",
     "docs/book/17-Files.md",
     "docs/book/18-Strings.md",
@@ -124,10 +137,8 @@
     "docs/book/Appendix-Becoming-a-Programmer.md",
     "LXGWWenKaiScreenR.ttf",
     "docs/_style/prism-master/CHANGELOG.md",
-    "docs/book/02-Installing-Java-and-the-Book-Examples.md",
     "docs/images/1545764724202.png",
     "docs/images/1545763399825.png",
-    "docs/book/00-Preface.md",
     "docs/book/00-On-Java-8.md",
     "docs/_coverpage.md",
     "docs/book/00-Introduction.md",
@@ -137,9 +148,6 @@
     "on-java-8-EN-9780981872520.pdf",
     "cover_small.jpg",
     "2023-09-08.md",
-    "docs/book/Appendix-Passing-and-Returning-Objects.md",
-    "docs/book/25-Patterns.md",
-    "docs/book/03-Objects-Everywhere.md",
     "未命名.canvas"
   ]
 }
