@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "docs/book/01-What-is-an-Object.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -66,7 +66,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -111,11 +112,15 @@
   "left-ribbon": {
     "hiddenItems": {}
   },
-  "active": "082c8ea6daa67c59",
+  "active": "989f85010e3cd589",
   "lastOpenFiles": [
+    "docs/book/17-Files.md",
+    "docs/book/18-Strings.md",
+    "docs/book/16-Validating-Your-Code.md",
+    "docs/book/Appendix-Becoming-a-Programmer.md",
+    "docs/book/01-What-is-an-Object.md",
     "LXGWWenKaiScreenR.ttf",
     "docs/_style/prism-master/CHANGELOG.md",
-    "docs/book/01-What-is-an-Object.md",
     "docs/book/02-Installing-Java-and-the-Book-Examples.md",
     "docs/images/1545764724202.png",
     "docs/images/1545763399825.png",

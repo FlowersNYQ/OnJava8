@@ -1,11 +1,14 @@
 {
   "accentColor": "",
   "cssTheme": "Typewriter",
-  "interfaceFontFamily": "Microsoft YaHei",
+  "interfaceFontFamily": "",
   "textFontFamily": "",
   "monospaceFontFamily": "",
   "nativeMenus": false,
   "translucency": false,
   "theme": "obsidian",
-  "baseFontSize": 16
+  "baseFontSize": 20,
+  "enabledCssSnippets": [
+    "font"
+  ]
 }
