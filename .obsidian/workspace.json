@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/book/01-What-is-an-Object.md",
-                "mode": "preview",
+                "file": "测试git.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/book/01-What-is-an-Object.md"
+                "file": "测试git.md"
               }
             }
           },
@@ -110,12 +110,14 @@
     "collapsed": true
   },
   "left-ribbon": {
-    "hiddenItems": {}
+    "hiddenItems": {
+      "command-palette:打开命令面板": false
+    }
   },
   "active": "3c3b75f4c49fd7b8",
   "lastOpenFiles": [
-    "测试git.md",
     "docs/book/01-What-is-an-Object.md",
+    "测试git.md",
     "docs/book/17-Files.md",
     "docs/book/18-Strings.md",
     "docs/book/16-Validating-Your-Code.md",
