@@ -106,12 +106,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {}
   },
-  "active": "e3868fae77f1d9a2",
+  "active": "0345218ffb099880",
   "lastOpenFiles": [
     "docs/book/01-What-is-an-Object.md",
     "测试git.md",
