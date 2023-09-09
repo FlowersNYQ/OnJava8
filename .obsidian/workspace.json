@@ -19,22 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "adf56abdacbb80eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未命名.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.md"
+                "file": "测试git.md"
               }
             }
           },
@@ -125,10 +111,10 @@
   "left-ribbon": {
     "hiddenItems": {}
   },
-  "active": "adf56abdacbb80eb",
+  "active": "989f85010e3cd589",
   "lastOpenFiles": [
     "docs/book/01-What-is-an-Object.md",
-    "未命名.md",
+    "测试git.md",
     "docs/book/17-Files.md",
     "docs/book/18-Strings.md",
     "docs/book/16-Validating-Your-Code.md",
