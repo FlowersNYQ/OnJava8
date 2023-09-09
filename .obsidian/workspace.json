@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#TODO",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,13 +66,11 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7ef66fdc9ee00364",
@@ -103,18 +101,19 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {}
   },
-  "active": "e3868fae77f1d9a2",
+  "active": "082c8ea6daa67c59",
   "lastOpenFiles": [
+    "LXGWWenKaiScreenR.ttf",
     "docs/_style/prism-master/CHANGELOG.md",
     "docs/book/01-What-is-an-Object.md",
     "docs/book/02-Installing-Java-and-the-Book-Examples.md",
