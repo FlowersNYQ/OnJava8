@@ -11,8 +11,13 @@
             "id": "3c3b75f4c49fd7b8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "docs/book/01-What-is-an-Object.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -82,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "测试git.md"
+                "file": "docs/book/01-What-is-an-Object.md"
               }
             }
           },
@@ -107,10 +112,10 @@
   "left-ribbon": {
     "hiddenItems": {}
   },
-  "active": "0345218ffb099880",
+  "active": "3c3b75f4c49fd7b8",
   "lastOpenFiles": [
-    "docs/book/01-What-is-an-Object.md",
     "测试git.md",
+    "docs/book/01-What-is-an-Object.md",
     "docs/book/17-Files.md",
     "docs/book/18-Strings.md",
     "docs/book/16-Validating-Your-Code.md",
