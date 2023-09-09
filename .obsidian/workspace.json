@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#TODO",
+                "query": "tag:#TODO_2023年9月9日20点14分",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,8 +66,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -114,11 +113,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "462aa4dd0c6b6900",
+  "active": "082c8ea6daa67c59",
   "lastOpenFiles": [
     "测试git.md",
-    "CONTRIBUTING.md",
     "docs/book/01-What-is-an-Object.md",
+    "CONTRIBUTING.md",
     "docs/book/17-Files.md",
     "docs/book/18-Strings.md",
     "docs/book/16-Validating-Your-Code.md",
