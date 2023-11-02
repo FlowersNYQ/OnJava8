@@ -165,7 +165,7 @@ for(initialization; Boolean-expression; step)
   statement
 ```
 
-初始化 (initialization) 表达式、布尔表达式 (Boolean-expression) ，或者步进 (step) 运算，都可以为空。每次迭代之前都会判断布尔表达式的结果是否成立。一旦计算结果为 `false`，则跳出 **for** 循环体并继续执行后面代码。 每次循环结束时，都会执行一次步进。
+初始化 (initialization) 表达式、布尔表达式 (Boolean-expression) ，或者步进 (step) 运算，都可以为空。每次迭代之前都会判断布尔表达式的结果是否成立。一旦计算结果为 `false`，则跳出 **for** 循环体并继续执行后面代码。每次循环结束时，都会执行一次步进。
 
 **for** 循环通常用于“计数”任务。代码示例：
 

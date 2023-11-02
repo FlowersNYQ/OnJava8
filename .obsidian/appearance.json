@@ -11,5 +11,6 @@
   "enabledCssSnippets": [
     "font",
     "Global Fonts"
-  ]
+  ],
+  "baseFontSizeAction": false
 }

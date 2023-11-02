@@ -13,14 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/book/02-Installing-Java-and-the-Book-Examples.md",
+                "file": "docs/book/06-Housekeeping.md",
                 "mode": "preview",
                 "backlinks": false,
-                "source": false
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "9bf961d3e8f67d9d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -67,11 +78,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "right": {
@@ -88,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/book/02-Installing-Java-and-the-Book-Examples.md"
+                "file": "docs/book/06-Housekeeping.md"
               }
             }
           },
@@ -107,7 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -115,12 +126,19 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "462aa4dd0c6b6900",
+  "active": "9bf961d3e8f67d9d",
   "lastOpenFiles": [
+    "docs/book/05-Control-Flow.md",
+    "docs/book/04-Operators.md",
+    "docs/book/03-Objects-Everywhere.md",
+    "on-java-8-EN-9780981872520.pdf",
+    "docs/book/02-Installing-Java-and-the-Book-Examples.md",
     "docs/book/01-What-is-an-Object.md",
+    "docs/book/00-Preface.md",
+    "docs/book/00-On-Java-8.md",
+    "docs/book/00-Introduction.md",
     "docs/book/23-Annotations.md",
     "docs/book/Appendix-Low-Level-Concurrency.md",
-    "docs/book/00-Preface.md",
     "docs/book/Appendix-Object-Serialization.md",
     "docs/book/Appendix-Passing-and-Returning-Objects.md",
     "docs/book/Appendix-Programming-Guidelines.md",
@@ -128,7 +146,6 @@
     "docs/book/Appendix-Supplements.md",
     "docs/book/Appendix-The-Positive-Legacy-of-C-plus-plus-and-Java.md",
     "docs/book/Appendix-Understanding-equals-and-hashCode.md",
-    "docs/book/02-Installing-Java-and-the-Book-Examples.md",
     "测试git.md",
     "CONTRIBUTING.md",
     "docs/book/17-Files.md",
@@ -139,15 +156,9 @@
     "docs/_style/prism-master/CHANGELOG.md",
     "docs/images/1545764724202.png",
     "docs/images/1545763399825.png",
-    "docs/book/00-On-Java-8.md",
     "docs/_coverpage.md",
-    "docs/book/00-Introduction.md",
     "SUMMARY.md",
-    "docs/sidebar.md",
-    "README.md",
-    "on-java-8-EN-9780981872520.pdf",
     "cover_small.jpg",
-    "2023-09-08.md",
     "未命名.canvas"
   ]
 }
